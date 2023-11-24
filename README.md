@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working At **JMC Jayasekera**
+ 🔭 I’m currently working At **JMC Jayasekera Management Center**
  
  🌱 I’m currently learning **Full-Stack Technologies**
 
-💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here]()**
+💬 Ask me about **Node.js, React, Laravel, Firebase, MongoDB... or anything [here]()**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,laravel,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
